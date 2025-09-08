@@ -1,1 +1,4 @@
 @import "tailwindcss";
+.esconder {
+    display: none;
+}
