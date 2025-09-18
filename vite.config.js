@@ -11,7 +11,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, "index.html"),
-        bottles: resolve(__dirname, "/bottles/index.html"),
+        dtcnm: resolve(__dirname, "/dtcnm/index.html"),
       },
     },
   },
