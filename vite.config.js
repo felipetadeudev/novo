@@ -12,6 +12,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, "index.html"),
         dtcnm: resolve(__dirname, "/dtcnm/index.html"),
+        upsell: resolve(__dirname, "/upsell/index.html"),
       },
     },
   },
