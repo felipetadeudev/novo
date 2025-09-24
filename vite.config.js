@@ -16,6 +16,7 @@ export default defineConfig({
         up1b12: resolve(__dirname, "/up1b12/index.html"),
         up2: resolve(__dirname, "/up2/index.html"),
         dw1: resolve(__dirname, "/dw1/index.html"),
+        sdw1: resolve(__dirname, "/sdw1/index.html"),
       },
     },
   },
