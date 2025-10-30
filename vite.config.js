@@ -23,6 +23,7 @@ export default defineConfig({
         up2dg: resolve(__dirname, "/up2dg/index.html"),
         dw1dg: resolve(__dirname, "/dw1dg/index.html"),
         sdw1dg: resolve(__dirname, "/sdw1dg/index.html"),
+        label: resolve(__dirname, "/label/index.html"),
       },
     },
   },
